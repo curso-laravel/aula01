@@ -1,2 +1,3 @@
 # aula1
-Primeiro repositório Curso Laravel
+Primeiro repositório Curso Laravel - Aluna Cecília Pessoa
+
